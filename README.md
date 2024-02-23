@@ -21,14 +21,14 @@ model training, evaluation, hyperparameter tuning, and real-time data integratio
 goal of improving resource management, supporting agriculture, and enhancing disaster preparedness
 through more informed decision-making.
 
-###Result of the project:
+### Result of the project:
 1.This plot visualizes the relationship between 'Humidity9am' and 'Temp9am,' with points colored based on the 'RainTomorrow' variable,
 providing insight into how these weather features relate to the likelihood of rain tomorrow. 
 
 2. This plot visualizes the relationship between ‘mintemp' and ‘maxtemp,' with points colored based on the 'RainTomorrow' variable, 
 providing insight into how these weather features relate to the likelihood of rain tomorrow.
 
-###Conclusion:
+### Conclusion:
 The overall aim is to define various ML techniques that are useful in predicting rainfall. The goal of
 this research is to design accurate and efficient model by applying lesser number of attributes and tests.
 Firstly, the data is pre-processed and then it is used in the model. Random Forest classifier with
